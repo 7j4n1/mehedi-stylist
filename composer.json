@@ -14,5 +14,6 @@
             "name": "7j4n1",
             "email": "ahmaholy@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
