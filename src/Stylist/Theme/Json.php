@@ -57,8 +57,8 @@ class Json
     {
         $json = $this->getJson();
 
-        if (isset($json[$attribute])) {
-            return $json[$attribute];
+        if (isset($json->$attribute)) {
+            return $json->$attribute;
         }
 
         return null;
