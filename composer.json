@@ -1,0 +1,18 @@
+{
+    "name": "mehedi/stylist",
+    "type": "library",
+    "require": {
+        "laravelcollective/html": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mehedi\\Stylist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "7j4n1",
+            "email": "ahmaholy@gmail.com"
+        }
+    ]
+}
